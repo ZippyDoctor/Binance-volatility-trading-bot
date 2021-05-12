@@ -211,6 +211,7 @@ def convert_volume():
     return volume, last_price
 
 "Test"
+"Test"
 
 def buy():
     '''Place Buy market orders for each volatile coin found'''
